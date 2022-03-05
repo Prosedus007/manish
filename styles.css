@@ -1,0 +1,27 @@
+body {
+    background-color: hsla(115, 54%, 71%, 0.5);
+    
+}
+
+h1{
+    color: green;
+}
+h3
+{
+    color: green;
+}
+
+img {
+    width: 150px;
+}
+hr{
+    size: 100px;
+    width: 5%;
+    border-style: dotted;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-color: green;
+    border-width: 5px;
+    border-right: 0px;
+
+}
